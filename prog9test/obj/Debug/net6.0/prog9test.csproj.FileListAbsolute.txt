@@ -1,0 +1,15 @@
+C:\Users\poojitha.devaki\source\repos\prog9test\bin\Debug\net6.0\prog9test.exe
+C:\Users\poojitha.devaki\source\repos\prog9test\bin\Debug\net6.0\prog9test.deps.json
+C:\Users\poojitha.devaki\source\repos\prog9test\bin\Debug\net6.0\prog9test.runtimeconfig.json
+C:\Users\poojitha.devaki\source\repos\prog9test\bin\Debug\net6.0\prog9test.dll
+C:\Users\poojitha.devaki\source\repos\prog9test\bin\Debug\net6.0\prog9test.pdb
+C:\Users\poojitha.devaki\source\repos\prog9test\obj\Debug\net6.0\prog9test.csproj.AssemblyReference.cache
+C:\Users\poojitha.devaki\source\repos\prog9test\obj\Debug\net6.0\prog9test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\poojitha.devaki\source\repos\prog9test\obj\Debug\net6.0\prog9test.AssemblyInfoInputs.cache
+C:\Users\poojitha.devaki\source\repos\prog9test\obj\Debug\net6.0\prog9test.AssemblyInfo.cs
+C:\Users\poojitha.devaki\source\repos\prog9test\obj\Debug\net6.0\prog9test.csproj.CoreCompileInputs.cache
+C:\Users\poojitha.devaki\source\repos\prog9test\obj\Debug\net6.0\prog9test.dll
+C:\Users\poojitha.devaki\source\repos\prog9test\obj\Debug\net6.0\refint\prog9test.dll
+C:\Users\poojitha.devaki\source\repos\prog9test\obj\Debug\net6.0\prog9test.pdb
+C:\Users\poojitha.devaki\source\repos\prog9test\obj\Debug\net6.0\prog9test.genruntimeconfig.cache
+C:\Users\poojitha.devaki\source\repos\prog9test\obj\Debug\net6.0\ref\prog9test.dll
