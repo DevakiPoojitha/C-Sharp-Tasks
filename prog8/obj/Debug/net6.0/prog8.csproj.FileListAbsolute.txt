@@ -1,0 +1,15 @@
+C:\Users\poojitha.devaki\source\repos\prog8\bin\Debug\net6.0\prog8.exe
+C:\Users\poojitha.devaki\source\repos\prog8\bin\Debug\net6.0\prog8.deps.json
+C:\Users\poojitha.devaki\source\repos\prog8\bin\Debug\net6.0\prog8.runtimeconfig.json
+C:\Users\poojitha.devaki\source\repos\prog8\bin\Debug\net6.0\prog8.dll
+C:\Users\poojitha.devaki\source\repos\prog8\bin\Debug\net6.0\prog8.pdb
+C:\Users\poojitha.devaki\source\repos\prog8\obj\Debug\net6.0\prog8.csproj.AssemblyReference.cache
+C:\Users\poojitha.devaki\source\repos\prog8\obj\Debug\net6.0\prog8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\poojitha.devaki\source\repos\prog8\obj\Debug\net6.0\prog8.AssemblyInfoInputs.cache
+C:\Users\poojitha.devaki\source\repos\prog8\obj\Debug\net6.0\prog8.AssemblyInfo.cs
+C:\Users\poojitha.devaki\source\repos\prog8\obj\Debug\net6.0\prog8.csproj.CoreCompileInputs.cache
+C:\Users\poojitha.devaki\source\repos\prog8\obj\Debug\net6.0\prog8.dll
+C:\Users\poojitha.devaki\source\repos\prog8\obj\Debug\net6.0\refint\prog8.dll
+C:\Users\poojitha.devaki\source\repos\prog8\obj\Debug\net6.0\prog8.pdb
+C:\Users\poojitha.devaki\source\repos\prog8\obj\Debug\net6.0\prog8.genruntimeconfig.cache
+C:\Users\poojitha.devaki\source\repos\prog8\obj\Debug\net6.0\ref\prog8.dll
