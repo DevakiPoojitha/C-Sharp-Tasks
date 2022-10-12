@@ -1,0 +1,15 @@
+C:\Users\poojitha.devaki\source\repos\Prog2\bin\Debug\net6.0\Prog2.exe
+C:\Users\poojitha.devaki\source\repos\Prog2\bin\Debug\net6.0\Prog2.deps.json
+C:\Users\poojitha.devaki\source\repos\Prog2\bin\Debug\net6.0\Prog2.runtimeconfig.json
+C:\Users\poojitha.devaki\source\repos\Prog2\bin\Debug\net6.0\Prog2.dll
+C:\Users\poojitha.devaki\source\repos\Prog2\bin\Debug\net6.0\Prog2.pdb
+C:\Users\poojitha.devaki\source\repos\Prog2\obj\Debug\net6.0\Prog2.csproj.AssemblyReference.cache
+C:\Users\poojitha.devaki\source\repos\Prog2\obj\Debug\net6.0\Prog2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\poojitha.devaki\source\repos\Prog2\obj\Debug\net6.0\Prog2.AssemblyInfoInputs.cache
+C:\Users\poojitha.devaki\source\repos\Prog2\obj\Debug\net6.0\Prog2.AssemblyInfo.cs
+C:\Users\poojitha.devaki\source\repos\Prog2\obj\Debug\net6.0\Prog2.csproj.CoreCompileInputs.cache
+C:\Users\poojitha.devaki\source\repos\Prog2\obj\Debug\net6.0\Prog2.dll
+C:\Users\poojitha.devaki\source\repos\Prog2\obj\Debug\net6.0\refint\Prog2.dll
+C:\Users\poojitha.devaki\source\repos\Prog2\obj\Debug\net6.0\Prog2.pdb
+C:\Users\poojitha.devaki\source\repos\Prog2\obj\Debug\net6.0\Prog2.genruntimeconfig.cache
+C:\Users\poojitha.devaki\source\repos\Prog2\obj\Debug\net6.0\ref\Prog2.dll
