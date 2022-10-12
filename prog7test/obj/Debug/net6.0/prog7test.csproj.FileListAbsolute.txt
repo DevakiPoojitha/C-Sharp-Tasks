@@ -1,0 +1,15 @@
+C:\Users\poojitha.devaki\source\repos\prog7test\obj\Debug\net6.0\prog7test.csproj.AssemblyReference.cache
+C:\Users\poojitha.devaki\source\repos\prog7test\obj\Debug\net6.0\prog7test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\poojitha.devaki\source\repos\prog7test\obj\Debug\net6.0\prog7test.AssemblyInfoInputs.cache
+C:\Users\poojitha.devaki\source\repos\prog7test\obj\Debug\net6.0\prog7test.AssemblyInfo.cs
+C:\Users\poojitha.devaki\source\repos\prog7test\obj\Debug\net6.0\prog7test.csproj.CoreCompileInputs.cache
+C:\Users\poojitha.devaki\source\repos\prog7test\bin\Debug\net6.0\prog7test.exe
+C:\Users\poojitha.devaki\source\repos\prog7test\bin\Debug\net6.0\prog7test.deps.json
+C:\Users\poojitha.devaki\source\repos\prog7test\bin\Debug\net6.0\prog7test.runtimeconfig.json
+C:\Users\poojitha.devaki\source\repos\prog7test\bin\Debug\net6.0\prog7test.dll
+C:\Users\poojitha.devaki\source\repos\prog7test\bin\Debug\net6.0\prog7test.pdb
+C:\Users\poojitha.devaki\source\repos\prog7test\obj\Debug\net6.0\prog7test.dll
+C:\Users\poojitha.devaki\source\repos\prog7test\obj\Debug\net6.0\refint\prog7test.dll
+C:\Users\poojitha.devaki\source\repos\prog7test\obj\Debug\net6.0\prog7test.pdb
+C:\Users\poojitha.devaki\source\repos\prog7test\obj\Debug\net6.0\prog7test.genruntimeconfig.cache
+C:\Users\poojitha.devaki\source\repos\prog7test\obj\Debug\net6.0\ref\prog7test.dll
