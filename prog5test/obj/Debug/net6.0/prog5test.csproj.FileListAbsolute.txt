@@ -1,0 +1,15 @@
+C:\Users\poojitha.devaki\source\repos\prog5test\bin\Debug\net6.0\prog5test.exe
+C:\Users\poojitha.devaki\source\repos\prog5test\bin\Debug\net6.0\prog5test.deps.json
+C:\Users\poojitha.devaki\source\repos\prog5test\bin\Debug\net6.0\prog5test.runtimeconfig.json
+C:\Users\poojitha.devaki\source\repos\prog5test\bin\Debug\net6.0\prog5test.dll
+C:\Users\poojitha.devaki\source\repos\prog5test\bin\Debug\net6.0\prog5test.pdb
+C:\Users\poojitha.devaki\source\repos\prog5test\obj\Debug\net6.0\prog5test.csproj.AssemblyReference.cache
+C:\Users\poojitha.devaki\source\repos\prog5test\obj\Debug\net6.0\prog5test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\poojitha.devaki\source\repos\prog5test\obj\Debug\net6.0\prog5test.AssemblyInfoInputs.cache
+C:\Users\poojitha.devaki\source\repos\prog5test\obj\Debug\net6.0\prog5test.AssemblyInfo.cs
+C:\Users\poojitha.devaki\source\repos\prog5test\obj\Debug\net6.0\prog5test.csproj.CoreCompileInputs.cache
+C:\Users\poojitha.devaki\source\repos\prog5test\obj\Debug\net6.0\prog5test.dll
+C:\Users\poojitha.devaki\source\repos\prog5test\obj\Debug\net6.0\refint\prog5test.dll
+C:\Users\poojitha.devaki\source\repos\prog5test\obj\Debug\net6.0\prog5test.pdb
+C:\Users\poojitha.devaki\source\repos\prog5test\obj\Debug\net6.0\prog5test.genruntimeconfig.cache
+C:\Users\poojitha.devaki\source\repos\prog5test\obj\Debug\net6.0\ref\prog5test.dll
