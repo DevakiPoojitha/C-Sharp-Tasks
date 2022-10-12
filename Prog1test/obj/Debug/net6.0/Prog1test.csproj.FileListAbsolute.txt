@@ -1,0 +1,15 @@
+C:\Users\poojitha.devaki\source\repos\Prog1test\bin\Debug\net6.0\Prog1test.exe
+C:\Users\poojitha.devaki\source\repos\Prog1test\bin\Debug\net6.0\Prog1test.deps.json
+C:\Users\poojitha.devaki\source\repos\Prog1test\bin\Debug\net6.0\Prog1test.runtimeconfig.json
+C:\Users\poojitha.devaki\source\repos\Prog1test\bin\Debug\net6.0\Prog1test.dll
+C:\Users\poojitha.devaki\source\repos\Prog1test\bin\Debug\net6.0\Prog1test.pdb
+C:\Users\poojitha.devaki\source\repos\Prog1test\obj\Debug\net6.0\Prog1test.csproj.AssemblyReference.cache
+C:\Users\poojitha.devaki\source\repos\Prog1test\obj\Debug\net6.0\Prog1test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\poojitha.devaki\source\repos\Prog1test\obj\Debug\net6.0\Prog1test.AssemblyInfoInputs.cache
+C:\Users\poojitha.devaki\source\repos\Prog1test\obj\Debug\net6.0\Prog1test.AssemblyInfo.cs
+C:\Users\poojitha.devaki\source\repos\Prog1test\obj\Debug\net6.0\Prog1test.csproj.CoreCompileInputs.cache
+C:\Users\poojitha.devaki\source\repos\Prog1test\obj\Debug\net6.0\Prog1test.dll
+C:\Users\poojitha.devaki\source\repos\Prog1test\obj\Debug\net6.0\refint\Prog1test.dll
+C:\Users\poojitha.devaki\source\repos\Prog1test\obj\Debug\net6.0\Prog1test.pdb
+C:\Users\poojitha.devaki\source\repos\Prog1test\obj\Debug\net6.0\Prog1test.genruntimeconfig.cache
+C:\Users\poojitha.devaki\source\repos\Prog1test\obj\Debug\net6.0\ref\Prog1test.dll
